@@ -5,5 +5,5 @@ Tecnologias utilizadas: Pytho3 + Selenium
 
 # Instruções:
 * Scripts compativeis com navegador google chrome (91.0.4472.101)
-* instalar pacotes requeridos no arquivos requirements.txt
+* Instalar pacotes requeridos no arquivos requirements.txt
 * Scripts compativeis com python3
