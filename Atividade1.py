@@ -27,6 +27,7 @@ class Page:
         time.sleep(3)
         #press end button again to array at the botton of the page
         html.send_keys(Keys.END)
+        time.sleep(3)
 
     def changeSeleniumFocus(self):
         #change the selenium focus to the Demo tab
